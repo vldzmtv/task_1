@@ -1,4 +1,1 @@
-- `index.php` - подключение компонента на главной странице
-- `local/templates/.default/components/bitrix/news.list/news_new/` - шаблон компонента
-- `cards.xml` - экспорт инфоблока с карточками
-- `cards_files/` - изображения для импорта
+## Tasks-for-trainees
